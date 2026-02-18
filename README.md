@@ -31,8 +31,8 @@ Most of my work focuses on frontend and full-stack development, experimental app
 - ✔️ Python
 - ✔️ HTML & CSS
 - ✔️ Basic backend & API interaction
-- ⚠️ C++ — basic knowledge
-- ⚠️ C# — basic knowledge
+- ⚠️ C++ - basic knowledge
+- ⚠️ C# - basic knowledge
 
 ---
 
@@ -47,7 +47,7 @@ Most of my work focuses on frontend and full-stack development, experimental app
 
 ## GitHub Stats
 
-[![Skvidos's GitHub stats](https://github-readme-stats.vercel.app/api?username=skvidos)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://readme-stats.nozemi.io/api?username=skvidos&show_icons=true&theme=dark)](https://readme-stats.nozemi.io)
 
 ---
 
