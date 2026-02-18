@@ -17,7 +17,7 @@ Most of my work focuses on frontend and full-stack development, experimental app
 
 - **[EchoPoll](https://github.com/Skvidos/EchoPoll)** - A React.js application developed as part of a university internship project.
 
-### Osu Tournaments Overlay
+### Osu! Tournaments Overlay
 
 - **[Kazakstan Tournament Mafia Cup](https://github.com/Skvidos/KTMC_tournament_overlay)**
 
