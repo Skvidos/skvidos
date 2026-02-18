@@ -31,8 +31,8 @@ Most of my work focuses on frontend and full-stack development, experimental app
 - ✔️ Python
 - ✔️ HTML & CSS
 - ✔️ Basic backend & API interaction
-- ⚠️ C++ — basic knowledge
-- ⚠️ C# — basic knowledge
+- ⚠️ C++ - basic knowledge
+- ⚠️ C# - basic knowledge
 
 ---
 
