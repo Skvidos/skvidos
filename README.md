@@ -21,7 +21,7 @@ Most of my work focuses on frontend and full-stack development, experimental app
 
 - **[Kazakstan Tournament Mafia Cup](https://github.com/Skvidos/KTMC_tournament_overlay)**
 
-- **[Others]()**
+- **[Others](https://skvidos.github.io/about-me/overlays/index.html)**
 
 ---
 
