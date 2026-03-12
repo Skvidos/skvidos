@@ -47,7 +47,8 @@ Most of my work focuses on frontend and full-stack development, experimental app
 
 ## GitHub Stats
 
-[![My GitHub stats](https://readme-stats.nozemi.io/api?username=skvidos&show_icons=true&theme=dark)](https://readme-stats.nozemi.io)
+[![My GitHub stats](https://readme-stats.nozemi.io/api?username=skvidos&show_icons=true&hide=contribs&theme=dark&hide_border=true)](https://readme-stats.nozemi.io)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skvidos&layout=compact&theme=dark&hide_border=true)](https://readme-stats.nozemi.io)
 
 ---
 
